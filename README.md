@@ -14,11 +14,11 @@ Para correr el juego, sigue estos pasos:
 2. Clona el repositorio ejecutando el siguiente comando en la consola:
 
    ```shell
-   git clone https://github.com/Agusdiisanto/unq-ui-AgustinDiSanto-Trabajo-final.git
+   git clone [https://github.com/Agusdiisanto/unq-ui-AgustinDiSanto-Trabajo-final.git](https://github.com/Agusdiisanto/control-gastos.git)
    ```
 Navega a la carpeta "unq-ui-AgustinDiSanto-Trabajo-Final" y ejecuta el siguiente comando:
 ```shell
-cd piedra-papel-tijeras
+cd src
 ```
 Instala las dependencias ejecutando:
 
